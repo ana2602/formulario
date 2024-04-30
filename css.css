@@ -1,6 +1,6 @@
 body {
     background-image: linear-gradient(to right, rgb(20, 147, 220), rgb(17, 54, 71));
-    color: rgb(255, 0, 0);
+    color:aqua;
     font-family:serif;
 }
 
@@ -34,7 +34,7 @@ fieldset {
 
 .inputBox {
     position: relative;
-    color: rgb(255, 0, 0);
+    color: aqua;
     font-family:cursive;
 }
 
@@ -61,7 +61,7 @@ fieldset {
 .inputUser:focus ~ .labelInput{
     top: -20px;
     font-size: 19px;
-    color: rgb(226, 140, 140);
+    color: rgb(1, 129, 129);
 }
 
 #data_nascimento{
